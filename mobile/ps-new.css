@@ -1746,8 +1746,8 @@ body:not(.topSlideY) .ps-new .sponsorship--wrap:before {
 /* 20240603_2 */
 .ps-new .ps-breadcrumb li a {
     background: none;
-    font-size: 18px;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 700;
     color: var(--color-50);
     padding: 0
 }
@@ -1813,6 +1813,7 @@ body:not(.topSlideY) .ps-new .sponsorship--wrap:before {
 
 .ps-new .ps-sub-goodsInfo .ps-sub-goodsInfo--count {
     font-family: 'GeneralSans-Regular';
+    font-size:14px;
     font-weight: 500;
     display: flex;
     gap: 4px;
